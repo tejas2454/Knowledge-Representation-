@@ -1,0 +1,11 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns0: <http://purl.org/dc/terms#> .
+@prefix ns1: <data:text/plain;charset=utf-8;base64,> .
+
+<data:text/plain;charset=utf-8;base64,QmlvVmlzaW9ubn> rdf:contributor <data:text/plain;charset=utf-8;base64,QmlvVmlzaW9uHiranmay> .
+<data:text/plain;charset=utf-8;base64,QmlvVmlzaW9uHiranmay>
+  ns0:type <data:text/plain;charset=utf-8;base64,QmlvVmlzaW9uFaculty> ;
+  ns0:name <data:text/plain;charset=utf-8;base64,QmlvVmlzaW9uHiranmay_Ghosh> ;
+  ns1:QmlvVmlzaW9uhas-affiliation ns1:QmlvVmlzaW9uIitj .
+
+ns1:QmlvVmlzaW9uIitj ns0:name ns1:QmlvVmlzaW9uIIT-Jodhpur .

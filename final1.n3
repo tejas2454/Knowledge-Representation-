@@ -1,0 +1,11 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns0: <http://purl.org/dc/terms#> .
+
+<data:text/plain;charset=utf-8;base64,QmlvVmlzaW9uCogvis>
+  rdf:contributor <data:text/plain;charset=utf-8;base64,QmlvVmlzaW9ubn> ;
+  ns0:publisher <data:text/plain;charset=utf-8;base64,QmlvVmlzaW9uWip> ;
+  ns0:date <data:text/plain;charset=utf-8;base64,QmlvVmlzaW9u2020> ;
+  ns0:title <data:text/plain;charset=utf-8;base64,QmlvVmlzaW9uCognitive_Vision> ;
+  ns0:type <data:text/plain;charset=utf-8;base64,QmlvVmlzaW9uBook> .
+
+<data:text/plain;charset=utf-8;base64,QmlvVmlzaW9uWip> ns0:name <data:text/plain;charset=utf-8;base64,QmlvVmlzaW9uWiley_IEEE_Press> .
